@@ -1,0 +1,5 @@
+{
+  "https://framer.com/m/framer/confetti.js": { "resolved": "https://framerusercontent.com/modules/p3cUZx7TGsCR2PgB5aam/N4JfB3XR3le8GPhoWIJa/Confetti.js", "integrity": "sha512-fYT1ibEQ6nyI1nl4TtmrkDjwcYssMdHjUvIHE6dnmcD21mLMd7k04EcS2jGUrMf9tHngnPE51xO5tSxtaNUxsQ==", "contentType": "text/javascript" },
+  "https://framer.com/m/framer/framer-motion.js": { "resolved": "https://framerusercontent.com/modules/xaF4I3E7godoFgfS8iTK/ybCc6Q56QsOTjvXFxsWP/FramerMotion.js", "integrity": "sha512-p5UM2VDr2+pu7084kir0IZEIHg/G7AZWyBvlUpqi/GpXbTkN1tQ7W+6qHOPlTyb/P1f+KkAWjZ3ao76V0YBZEQ==", "contentType": "text/javascript" },
+  "version": 1
+}
