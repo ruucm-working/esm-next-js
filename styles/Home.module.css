@@ -8,6 +8,18 @@
   height: 100vh;
 }
 
+.box {
+  background: #0070f3;
+  width: 100px;
+  height: 100px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+}
+
 .main {
   padding: 5rem 0;
   flex: 1;
